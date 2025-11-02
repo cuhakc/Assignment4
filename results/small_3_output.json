@@ -1,0 +1,24 @@
+{
+  "num_components" : 6,
+  "components" : [ [ 0, 1, 2 ], [ 3, 4, 5 ], [ 6 ], [ 7 ], [ 8 ], [ 9 ] ],
+  "condensation_edges" : {
+    "8589934595" : 9,
+    "17179869189" : 4,
+    "2" : 5,
+    "12884901892" : 2
+  },
+  "topo_order" : [ 0, 1, 2, 3, 4, 5 ],
+  "shortest_distances" : [ 0, 2305843009213693951, 5, 14, 16, 20 ],
+  "shortest_parents" : [ -1, -1, 0, 2, 3, 4 ],
+  "critical_path_value" : 20,
+  "critical_path_comps" : [ 0, 2, 3, 4, 5 ],
+  "metrics" : {
+    "startNs" : 95343132807541,
+    "endNs" : 95343132822583,
+    "dfsVisits" : 10,
+    "dfsEdges" : 10,
+    "kahnPops" : 6,
+    "kahnPushes" : 4,
+    "relaxations" : 4
+  }
+}
