@@ -105,12 +105,6 @@ Total times were measured using `System.nanoTime()`.
 
 ---
 
-## 📚 6. References
-- R. Tarjan, *Depth-first search and linear graph algorithms*, SIAM Journal (1972).  
-- A. Kahn, *Topological sorting of large networks*, Communications of the ACM (1962).  
-- Cormen et al., *Introduction to Algorithms (CLRS)*, 3rd Ed., MIT Press.  
-
----
 
 *Prepared by:* 
 **Agibaev Sulan**  
